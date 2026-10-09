@@ -1,0 +1,8 @@
+pickle/
+*.zip
+*.npy
+*.pkl
+.claude/
+_to_review/
+__pycache__/
+.ipynb_checkpoints/
