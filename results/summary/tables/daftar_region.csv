@@ -1,0 +1,1001 @@
+﻿model,model_id,domain,section,daftar,urutan,Region
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,3,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,4,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,5,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,6,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,7,Central America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,8,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,High-error regions,9,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,1,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,2,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,3,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,4,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,5,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,6,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,7,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,8,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,9,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Low-error regions,10,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Genuine Hybridity,2,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,3,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,4,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,5,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,6,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,7,Central America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,8,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Representational Fallback / Misplaced,9,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,1,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,2,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,3,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,4,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,5,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,6,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,7,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c1,Accurate,8,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Central America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Random Confusion (error tinggi, acak)",1,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,3,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,4,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,5,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,6,Central America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,7,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,c3,Region dengan Systematic Bias,8,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),5,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),6,Central America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),7,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (original),8,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (balanced),3,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (balanced),4,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,d,Region Bias_Ratio > 0.4 (balanced),5,Central America
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,1,Oceania
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,2,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,3,Southern America
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,4,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,5,Central Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,6,Northern America
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,7,Eastern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,8,Central America
+gemma,google/gemma-3-4b-pt,kuliner,c1,High-error regions,9,Southern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,1,Central Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,2,South Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,3,Northern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,4,Southern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,5,Northern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,6,Eastern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,7,Western Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,8,Western Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,9,Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Low-error regions,10,Southern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Genuine Hybridity,2,Southern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,2,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,3,Southern America
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,4,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,5,Central Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,6,Northern America
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,7,Eastern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,8,Central America
+gemma,google/gemma-3-4b-pt,kuliner,c1,Representational Fallback / Misplaced,9,Southern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,1,Central Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,2,Northern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,3,Northern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,4,Eastern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,5,Western Europe
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,6,Western Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,7,Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c1,Accurate,8,Southern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Southern America
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Oceania
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Central America
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Northern America
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Eastern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Random Confusion (error tinggi, acak)",1,Central Africa
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,South Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,Central Asia
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Northern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Western Asia
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Eastern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Eastern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Northern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Western Europe
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Southern Europe
+gemma,google/gemma-3-4b-pt,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Southern Asia
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,2,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,3,Southern America
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,4,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,5,Northern America
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,6,Eastern Africa
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,7,Central America
+gemma,google/gemma-3-4b-pt,kuliner,c3,Region dengan Systematic Bias,8,Southern Africa
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Southern America
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Southern Africa
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Oceania
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Caribbean
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (balanced),3,Western Africa
+gemma,google/gemma-3-4b-pt,kuliner,d,Region Bias_Ratio > 0.4 (balanced),4,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,2,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,3,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,4,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,5,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,6,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,7,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,8,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,High-error regions,9,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,1,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,2,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,3,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,4,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,5,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,6,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,7,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,8,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,9,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Low-error regions,10,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Genuine Hybridity,2,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,2,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,3,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,4,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,5,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,6,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,7,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,8,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Representational Fallback / Misplaced,9,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,1,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,2,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,3,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,4,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,5,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,6,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,7,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c1,Accurate,8,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Random Confusion (error tinggi, acak)",1,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,2,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,3,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,4,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,5,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,6,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,7,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,c3,Region dengan Systematic Bias,8,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,2,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,3,Southern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,4,Western Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,5,Southern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,6,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,7,Central Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,8,Northern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,High-error regions,9,Central America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,1,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,2,Northern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,3,Central Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,4,Southern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,5,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,6,Western Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,7,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,8,Northern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,9,Western Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Low-error regions,10,Southern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,2,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,3,Southern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,4,Western Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,5,Southern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,6,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,7,Central Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,8,Northern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Representational Fallback / Misplaced,9,Central America
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,1,Northern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,2,Central Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,3,Southern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,4,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,5,Western Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,6,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,7,Northern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,8,Western Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c1,Accurate,9,Southern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Southern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Southern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Northern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Central America
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Western Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",9,Central Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Northern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Western Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Southern Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Central Asia
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Western Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Southern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",10,Northern Europe
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,2,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,3,Southern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,4,Western Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,5,Southern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,6,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,7,Central Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,8,Northern America
+llama,meta-llama/Llama-3.2-3B,kuliner,c3,Region dengan Systematic Bias,9,Central America
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Caribbean
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Southern America
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Southern Africa
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Oceania
+llama,meta-llama/Llama-3.2-3B,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,4,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,5,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,6,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,7,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,8,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,High-error regions,9,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,1,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,2,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,3,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,4,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,5,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,6,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,7,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,8,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,9,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Low-error regions,10,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Genuine Hybridity,1,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Genuine Hybridity,2,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,4,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,5,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,6,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,7,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,8,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Representational Fallback / Misplaced,9,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,1,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,2,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,3,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,4,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,5,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,6,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,7,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c1,Accurate,8,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Random Confusion (error tinggi, acak)",1,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,4,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,5,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,6,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,7,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,c3,Region dengan Systematic Bias,8,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (balanced),3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (balanced),4,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,d,Region Bias_Ratio > 0.4 (balanced),5,Northern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,1,Oceania
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,2,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,3,Southern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,4,Southern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,5,Western Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,6,Central Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,7,Central America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,8,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,High-error regions,9,Northern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,1,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,2,Central Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,3,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,4,Southern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,5,Northern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,6,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,7,Western Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,8,Northern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,9,Western Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Low-error regions,10,Southern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,2,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,3,Southern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,4,Southern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,5,Western Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,6,Central Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,7,Central America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,8,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Representational Fallback / Misplaced,9,Northern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,1,Central Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,2,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,3,Southern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,4,Northern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,5,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,6,Western Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,7,Northern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,8,Western Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c1,Accurate,9,Southern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Oceania
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Southern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Western Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Northern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Central America
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Random Confusion (error tinggi, acak)",1,Central Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Central Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,Northern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Southern Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Western Asia
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Western Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Northern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Southern Europe
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,2,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,3,Southern America
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,4,Southern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,5,Western Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,6,Central America
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,7,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,c3,Region dengan Systematic Bias,8,Northern America
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Oceania
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Southern America
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Southern Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (original),5,Western Africa
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Caribbean
+qwen,Qwen/Qwen2.5-3B,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,1,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,2,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,5,Central Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,6,Western Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,7,Eastern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,8,Central America
+sarvam,sarvamai/sarvam-1,kuliner,c1,High-error regions,9,Northern America
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,1,South Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,2,Northern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,3,Southern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,4,Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,5,Northern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,6,Western Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,7,Eastern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,8,Central Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,9,Southern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Low-error regions,10,Western Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Genuine Hybridity,1,South Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Genuine Hybridity,2,Southern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Genuine Hybridity,3,Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Genuine Hybridity,4,Northern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,1,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,2,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,5,Central Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,6,Western Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,7,Eastern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,8,Central America
+sarvam,sarvamai/sarvam-1,kuliner,c1,Representational Fallback / Misplaced,9,Northern America
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,1,Northern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,2,Western Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,3,Eastern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,4,Central Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,5,Southern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c1,Accurate,6,Western Europe
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",2,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",5,Central America
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",6,Eastern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",7,Northern America
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",8,Western Africa
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Systematic Bias (error tinggi, terarah)",9,Central Africa
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",2,South Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",4,Southern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",5,Western Asia
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",6,Eastern Asia
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",7,Western Europe
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",8,Northern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",9,Southern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c2,"Well-Calibrated (error rendah, acak)",10,Eastern Europe
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,1,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,2,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,5,Central Africa
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,6,Western Africa
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,7,Eastern Africa
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,8,Central America
+sarvam,sarvamai/sarvam-1,kuliner,c3,Region dengan Systematic Bias,9,Northern America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),1,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),2,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),5,Central Africa
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),6,Western Africa
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),7,Eastern Africa
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),8,Central America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (original),9,Northern America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),1,Oceania
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),2,Southern Africa
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),3,Caribbean
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),4,Southern America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),5,Central America
+sarvam,sarvamai/sarvam-1,kuliner,d,Region Bias_Ratio > 0.4 (balanced),6,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,3,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,4,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,5,Central America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,6,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,7,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,8,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,High-error regions,9,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,1,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,2,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,3,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,4,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,5,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,6,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,7,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,8,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,9,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Low-error regions,10,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Genuine Hybridity,1,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,3,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,4,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,5,Central America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,6,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,7,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,8,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Representational Fallback / Misplaced,9,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,1,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,2,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,3,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,4,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,5,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,6,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,7,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,8,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c1,Accurate,9,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",3,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",4,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Central America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Systematic Bias (error tinggi, terarah)",8,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",1,Western Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",2,Western Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",4,Northern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",5,Central Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",6,Northern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",7,Southern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",8,Eastern Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c2,"Well-Calibrated (error rendah, acak)",9,Western Europe
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,1,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,2,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,3,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,4,Central America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,5,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,6,Southern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,7,Eastern Africa
+croissantLLM,croissantllm/CroissantLLMBase,musik,c3,Region dengan Systematic Bias,8,Southern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (original),1,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (original),2,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (original),3,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (original),4,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (balanced),1,Southern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (balanced),2,Caribbean
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (balanced),3,South Eastern Asia
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (balanced),4,Northern America
+croissantLLM,croissantllm/CroissantLLMBase,musik,d,Region Bias_Ratio > 0.4 (balanced),5,Southern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,1,Oceania
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,2,Caribbean
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,3,Southern America
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,4,Northern America
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,5,South Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,6,Southern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,7,Western Africa
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,8,Central America
+gemma,google/gemma-3-4b-pt,musik,c1,High-error regions,9,Eastern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,1,Central Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,2,Northern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,3,Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,4,Southern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,5,Central Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,6,Western Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,7,Eastern Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,8,Southern Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,9,Western Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Low-error regions,10,Northern Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Genuine Hybridity,1,Western Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Genuine Hybridity,2,Central Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Genuine Hybridity,3,Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,1,Oceania
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,2,Caribbean
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,3,Southern America
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,4,Northern America
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,5,South Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,6,Southern Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,7,Central America
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,8,Eastern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Representational Fallback / Misplaced,9,Southern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,1,Northern Africa
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,2,Central Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,3,Western Asia
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,4,Eastern Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,5,Southern Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,6,Western Europe
+gemma,google/gemma-3-4b-pt,musik,c1,Accurate,7,Northern Europe
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Central America
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Caribbean
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",3,South Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",4,Southern America
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Eastern Africa
+gemma,google/gemma-3-4b-pt,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Southern Asia
+gemma,google/gemma-3-4b-pt,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+gemma,google/gemma-3-4b-pt,musik,c2,"Random Confusion (error tinggi, acak)",2,Northern America
+gemma,google/gemma-3-4b-pt,musik,c2,"Random Confusion (error tinggi, acak)",3,Western Africa
+gemma,google/gemma-3-4b-pt,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Northern Africa
+gemma,google/gemma-3-4b-pt,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",2,Southern Africa
+gemma,google/gemma-3-4b-pt,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",3,Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",1,Central Asia
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",2,Western Asia
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",3,Western Europe
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",4,Southern Europe
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",5,Northern Europe
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",6,Central Africa
+gemma,google/gemma-3-4b-pt,musik,c2,"Well-Calibrated (error rendah, acak)",7,Eastern Europe
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,1,Caribbean
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,2,Southern America
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,3,South Eastern Asia
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,4,Southern Asia
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,5,Central America
+gemma,google/gemma-3-4b-pt,musik,c3,Region dengan Systematic Bias,6,Eastern Africa
+gemma,google/gemma-3-4b-pt,musik,d,Region Bias_Ratio > 0.4 (original),0,(kosong)
+gemma,google/gemma-3-4b-pt,musik,d,Region Bias_Ratio > 0.4 (balanced),1,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,2,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,3,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,4,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,5,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,6,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,7,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,8,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,High-error regions,9,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,1,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,2,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,3,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,4,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,5,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,6,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,7,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,8,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,9,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Low-error regions,10,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Genuine Hybridity,1,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Genuine Hybridity,2,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,2,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,3,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,4,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,5,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,6,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,7,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,8,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Representational Fallback / Misplaced,9,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,1,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,2,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,3,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,4,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,5,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,6,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,7,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c1,Accurate,8,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",3,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",4,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Random Confusion (error tinggi, acak)",1,Eastern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Random Confusion (error tinggi, acak)",2,Western Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Southern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",2,Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",2,Central Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",4,Southern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",5,Western Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",6,Northern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",7,Eastern Europe
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c2,"Well-Calibrated (error rendah, acak)",8,Western Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,1,Oceania
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,2,Southern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,3,Central America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,4,Caribbean
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,5,Northern America
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,6,South Eastern Asia
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,c3,Region dengan Systematic Bias,7,Southern Africa
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,d,Region Bias_Ratio > 0.4 (original),0,(kosong)
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,d,Region Bias_Ratio > 0.4 (balanced),0,(kosong)
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,1,Oceania
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,2,Southern America
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,3,Caribbean
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,4,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,5,Northern America
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,6,Central America
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,7,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,8,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,High-error regions,9,Western Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,1,Southern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,2,Southern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,3,Central Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,4,Northern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,5,Western Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,6,Central Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,7,Southern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,8,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,9,Northern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Low-error regions,10,Western Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Genuine Hybridity,1,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Genuine Hybridity,2,Western Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,1,Oceania
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,2,Southern America
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,3,Caribbean
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,4,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,5,Northern America
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,6,Central America
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,7,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,8,Southern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Representational Fallback / Misplaced,9,Southern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,1,Central Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,2,Northern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,3,Western Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,4,Central Asia
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,5,Southern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,6,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,7,Northern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c1,Accurate,8,Western Europe
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Southern America
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Northern America
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",3,Caribbean
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",4,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Central America
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Random Confusion (error tinggi, acak)",2,Western Africa
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Southern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",2,Southern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",2,Western Asia
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",4,Northern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",5,Central Africa
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",6,Eastern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",7,Southern Europe
+llama,meta-llama/Llama-3.2-3B,musik,c2,"Well-Calibrated (error rendah, acak)",8,Western Europe
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,1,Southern America
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,2,Caribbean
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,3,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,4,Northern America
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,5,Central America
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,6,Eastern Africa
+llama,meta-llama/Llama-3.2-3B,musik,c3,Region dengan Systematic Bias,7,Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,d,Region Bias_Ratio > 0.4 (original),0,(kosong)
+llama,meta-llama/Llama-3.2-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),1,South Eastern Asia
+llama,meta-llama/Llama-3.2-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),2,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,4,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,5,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,6,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,7,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,8,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,High-error regions,9,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,1,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,2,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,3,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,4,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,5,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,6,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,7,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,8,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,9,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Low-error regions,10,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Genuine Hybridity,1,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,2,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,3,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,4,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,5,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,6,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,7,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,8,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Representational Fallback / Misplaced,9,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,1,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,2,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,3,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,4,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,5,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,6,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,7,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,8,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c1,Accurate,9,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",3,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",4,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",5,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Random Confusion (error tinggi, acak)",2,Western Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Southern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",2,Eastern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",2,Central Africa
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",4,Western Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",5,Northern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",6,Western Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",7,Eastern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c2,"Well-Calibrated (error rendah, acak)",8,Southern Europe
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,1,Caribbean
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,2,Southern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,3,Central America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,4,Northern America
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,5,South Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,6,Southern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,c3,Region dengan Systematic Bias,7,Eastern Asia
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,d,Region Bias_Ratio > 0.4 (original),0,(kosong)
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,d,Region Bias_Ratio > 0.4 (balanced),0,(kosong)
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,1,Oceania
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,2,Southern America
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,3,Caribbean
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,4,Central America
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,5,Northern America
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,6,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,7,Southern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,8,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,High-error regions,9,Southern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,1,Western Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,2,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,3,Central Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,4,Western Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,5,Northern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,6,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,7,Central Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,8,Southern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,9,Northern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Low-error regions,10,Western Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Genuine Hybridity,1,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Genuine Hybridity,2,Central Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,1,Oceania
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,2,Southern America
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,3,Caribbean
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,4,Central America
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,5,Northern America
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,6,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,7,Southern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,8,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Representational Fallback / Misplaced,9,Southern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,1,Western Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,2,Western Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,3,Northern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,4,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,5,Central Asia
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,6,Southern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,7,Northern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c1,Accurate,8,Western Europe
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Central America
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Southern America
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",3,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",4,Caribbean
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Northern America
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Southern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Systematic Bias (error tinggi, terarah)",8,Southern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",1,Western Africa
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",2,Western Asia
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",4,Southern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",5,Central Africa
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",6,Western Europe
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",7,Northern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",8,Northern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c2,"Well-Calibrated (error rendah, acak)",9,Eastern Europe
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,1,Southern America
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,2,Caribbean
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,3,Central America
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,4,Northern America
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,5,South Eastern Asia
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,6,Southern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,7,Eastern Africa
+qwen,Qwen/Qwen2.5-3B,musik,c3,Region dengan Systematic Bias,8,Southern Asia
+qwen,Qwen/Qwen2.5-3B,musik,d,Region Bias_Ratio > 0.4 (original),1,Central America
+qwen,Qwen/Qwen2.5-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),1,Southern America
+qwen,Qwen/Qwen2.5-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),2,Caribbean
+qwen,Qwen/Qwen2.5-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),3,Central America
+qwen,Qwen/Qwen2.5-3B,musik,d,Region Bias_Ratio > 0.4 (balanced),4,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,1,Oceania
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,2,Southern America
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,3,Northern America
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,4,Central America
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,5,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,6,Caribbean
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,7,Southern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,8,Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,High-error regions,9,Eastern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,1,Southern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,2,Western Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,3,Central Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,4,Northern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,5,Central Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,6,Western Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,7,Southern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,8,Eastern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,9,Northern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Low-error regions,10,Western Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Genuine Hybridity,1,Central Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,1,Oceania
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,2,Southern America
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,3,Northern America
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,4,Central America
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,5,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,6,Caribbean
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,7,Southern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,8,Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Representational Fallback / Misplaced,9,Southern Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,1,Eastern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,2,Western Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,3,Northern Africa
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,4,Central Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,5,Western Asia
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,6,Southern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,7,Eastern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,8,Northern Europe
+sarvam,sarvamai/sarvam-1,musik,c1,Accurate,9,Western Europe
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",1,Southern Africa
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",2,Central America
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",3,Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",4,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",5,Caribbean
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",6,Southern America
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",7,Northern America
+sarvam,sarvamai/sarvam-1,musik,c2,"Systematic Bias (error tinggi, terarah)",8,Eastern Africa
+sarvam,sarvamai/sarvam-1,musik,c2,"Random Confusion (error tinggi, acak)",1,Oceania
+sarvam,sarvamai/sarvam-1,musik,c2,"Minor Consistent Drift (error rendah, sedikit terarah)",1,Southern Asia
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",1,Northern Africa
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",2,Western Africa
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",3,Central Asia
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",4,Central Africa
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",5,Western Asia
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",6,Northern Europe
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",7,Southern Europe
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",8,Eastern Europe
+sarvam,sarvamai/sarvam-1,musik,c2,"Well-Calibrated (error rendah, acak)",9,Western Europe
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,1,Southern America
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,2,Northern America
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,3,Central America
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,4,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,5,Caribbean
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,6,Southern Africa
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,7,Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,c3,Region dengan Systematic Bias,8,Eastern Africa
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),1,Southern America
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),2,Northern America
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),3,Central America
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),4,South Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),5,Caribbean
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),6,Southern Africa
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),7,Eastern Asia
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),8,Eastern Africa
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (original),9,Southern Asia
+sarvam,sarvamai/sarvam-1,musik,d,Region Bias_Ratio > 0.4 (balanced),0,(kosong)

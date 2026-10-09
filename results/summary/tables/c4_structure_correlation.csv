@@ -1,0 +1,197 @@
+﻿model,model_id,domain,row_order,Region,N_Countries,N_Pairs,Structure_Correlation,Structure_P_Mantel,Max_Permutations
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,1,Western Asia,16,120,0.770748,0.001,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,2,Southern Europe,12,66,0.769085,0.002,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,3,Western Europe,8,28,0.660646,0.017,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,4,Northern Africa,6,15,0.564286,0.022,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,5,Caribbean,14,91,0.373321,0.023,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,6,South Eastern Asia,10,45,0.232938,0.193,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,7,Northern Europe,8,28,0.226601,0.103,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,8,Southern Asia,8,28,0.194855,0.167,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,9,Eastern Europe,13,78,0.135776,0.169,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,10,Eastern Asia,8,28,0.123153,0.277,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,11,Eastern Africa,7,21,0.103896,0.332,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,12,Southern America,12,66,-0.041561,0.668,999
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,13,Western Africa,9,36,-0.06322,0.634,999
+gemma,google/gemma-3-4b-pt,kuliner,1,Southern Europe,12,66,0.754598,0.002,999
+gemma,google/gemma-3-4b-pt,kuliner,2,Western Asia,16,120,0.736364,0.001,999
+gemma,google/gemma-3-4b-pt,kuliner,3,Western Europe,8,28,0.604817,0.042,999
+gemma,google/gemma-3-4b-pt,kuliner,4,Northern Africa,6,15,0.564286,0.009,999
+gemma,google/gemma-3-4b-pt,kuliner,5,South Eastern Asia,10,45,0.524242,0.011,999
+gemma,google/gemma-3-4b-pt,kuliner,6,Eastern Africa,7,21,0.320779,0.111,999
+gemma,google/gemma-3-4b-pt,kuliner,7,Eastern Europe,13,78,0.316709,0.009,999
+gemma,google/gemma-3-4b-pt,kuliner,8,Eastern Asia,8,28,0.293377,0.129,999
+gemma,google/gemma-3-4b-pt,kuliner,9,Caribbean,14,91,0.25913,0.057,999
+gemma,google/gemma-3-4b-pt,kuliner,10,Northern Europe,8,28,0.256158,0.072,999
+gemma,google/gemma-3-4b-pt,kuliner,11,Southern Asia,8,28,0.187192,0.129,999
+gemma,google/gemma-3-4b-pt,kuliner,12,Southern America,12,66,-0.006659,0.52,999
+gemma,google/gemma-3-4b-pt,kuliner,13,Western Africa,9,36,-0.125611,0.698,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,1,Western Asia,16,120,0.795951,0.001,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,2,Southern Europe,12,66,0.768834,0.002,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,3,Northern Europe,8,28,0.634921,0.001,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,4,Western Europe,8,28,0.616858,0.037,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,5,South Eastern Asia,10,45,0.531357,0.011,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,6,Southern Asia,8,28,0.395731,0.079,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,7,Eastern Asia,8,28,0.329502,0.095,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,8,Northern Africa,6,15,0.253571,0.199,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,9,Eastern Europe,13,78,0.231831,0.085,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,10,Caribbean,14,91,0.190756,0.109,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,11,Southern America,12,66,0.045611,0.359,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,12,Eastern Africa,7,21,0.041558,0.484,999
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,13,Western Africa,9,36,-0.045452,0.578,999
+llama,meta-llama/Llama-3.2-3B,kuliner,1,Southern Europe,12,66,0.793257,0.002,999
+llama,meta-llama/Llama-3.2-3B,kuliner,2,Western Asia,16,120,0.727432,0.001,999
+llama,meta-llama/Llama-3.2-3B,kuliner,3,Western Europe,8,28,0.582923,0.058,999
+llama,meta-llama/Llama-3.2-3B,kuliner,4,South Eastern Asia,10,45,0.576548,0.003,999
+llama,meta-llama/Llama-3.2-3B,kuliner,5,Northern Africa,6,15,0.5,0.032,999
+llama,meta-llama/Llama-3.2-3B,kuliner,6,Southern Asia,8,28,0.373837,0.062,999
+llama,meta-llama/Llama-3.2-3B,kuliner,7,Eastern Africa,7,21,0.357143,0.115,999
+llama,meta-llama/Llama-3.2-3B,kuliner,8,Eastern Asia,8,28,0.280788,0.179,999
+llama,meta-llama/Llama-3.2-3B,kuliner,9,Western Africa,9,36,0.198713,0.153,999
+llama,meta-llama/Llama-3.2-3B,kuliner,10,Eastern Europe,13,78,0.197056,0.022,999
+llama,meta-llama/Llama-3.2-3B,kuliner,11,Southern America,12,66,0.035132,0.377,999
+llama,meta-llama/Llama-3.2-3B,kuliner,12,Caribbean,14,91,-0.048609,0.57,999
+llama,meta-llama/Llama-3.2-3B,kuliner,13,Northern Europe,8,28,-0.368363,0.977,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,1,Southern Europe,12,66,0.740027,0.002,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,2,Western Asia,16,120,0.647205,0.001,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,3,Northern Europe,8,28,0.642583,0.002,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,4,Southern Asia,8,28,0.579639,0.001,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,5,Western Europe,8,28,0.544609,0.071,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,6,Caribbean,14,91,0.268025,0.027,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,7,Eastern Europe,13,78,0.26337,0.013,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,8,Northern Africa,6,15,0.253571,0.17,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,9,Southern America,12,66,0.022398,0.438,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,10,Eastern Asia,8,28,0.004926,0.465,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,11,Western Africa,9,36,0.003992,0.468,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,12,Eastern Africa,7,21,-0.020779,0.506,999
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,13,South Eastern Asia,10,45,-0.085375,0.703,999
+qwen,Qwen/Qwen2.5-3B,kuliner,1,Southern Europe,12,66,0.721783,0.002,999
+qwen,Qwen/Qwen2.5-3B,kuliner,2,Eastern Africa,7,21,0.587013,0.002,999
+qwen,Qwen/Qwen2.5-3B,kuliner,3,South Eastern Asia,10,45,0.558498,0.001,999
+qwen,Qwen/Qwen2.5-3B,kuliner,4,Western Asia,16,120,0.552823,0.001,999
+qwen,Qwen/Qwen2.5-3B,kuliner,5,Western Europe,8,28,0.529283,0.079,999
+qwen,Qwen/Qwen2.5-3B,kuliner,6,Southern Asia,8,28,0.343186,0.052,999
+qwen,Qwen/Qwen2.5-3B,kuliner,7,Northern Africa,6,15,0.321429,0.07,999
+qwen,Qwen/Qwen2.5-3B,kuliner,8,Eastern Asia,8,28,0.269841,0.201,999
+qwen,Qwen/Qwen2.5-3B,kuliner,9,Eastern Europe,13,78,0.21041,0.098,999
+qwen,Qwen/Qwen2.5-3B,kuliner,10,Northern Europe,8,28,0.191571,0.134,999
+qwen,Qwen/Qwen2.5-3B,kuliner,11,Caribbean,14,91,0.012893,0.45,999
+qwen,Qwen/Qwen2.5-3B,kuliner,12,Western Africa,9,36,0.003476,0.471,999
+qwen,Qwen/Qwen2.5-3B,kuliner,13,Southern America,12,66,-0.060223,0.728,999
+sarvam,sarvamai/sarvam-1,kuliner,1,Southern Europe,12,66,0.730884,0.002,999
+sarvam,sarvamai/sarvam-1,kuliner,2,Eastern Europe,13,78,0.672783,0.001,999
+sarvam,sarvamai/sarvam-1,kuliner,3,Western Asia,16,120,0.648753,0.001,999
+sarvam,sarvamai/sarvam-1,kuliner,4,Eastern Africa,7,21,0.637662,0.012,999
+sarvam,sarvamai/sarvam-1,kuliner,5,Western Europe,8,28,0.489874,0.097,999
+sarvam,sarvamai/sarvam-1,kuliner,6,Northern Africa,6,15,0.346429,0.139,999
+sarvam,sarvamai/sarvam-1,kuliner,7,Northern Europe,8,28,0.305966,0.052,999
+sarvam,sarvamai/sarvam-1,kuliner,8,Caribbean,14,91,0.294168,0.032,999
+sarvam,sarvamai/sarvam-1,kuliner,9,Southern Asia,8,28,0.243021,0.111,999
+sarvam,sarvamai/sarvam-1,kuliner,10,Western Africa,9,36,0.219305,0.138,999
+sarvam,sarvamai/sarvam-1,kuliner,11,South Eastern Asia,10,45,0.181818,0.197,999
+sarvam,sarvamai/sarvam-1,kuliner,12,Eastern Asia,8,28,-0.007663,0.523,999
+sarvam,sarvamai/sarvam-1,kuliner,13,Southern America,12,66,-0.064858,0.683,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,1,Southern Europe,11,55,0.783117,0.001,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,2,Northern Africa,7,21,0.563636,0.005,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,3,South Eastern Asia,11,55,0.382684,0.003,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,4,Southern Asia,8,28,0.281336,0.023,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,5,Eastern Africa,13,78,0.27862,0.009,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,6,Eastern Asia,7,21,0.220779,0.198,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,7,Northern Europe,9,36,0.215959,0.133,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,8,Central Africa,8,28,0.21237,0.139,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,9,Eastern Europe,13,78,0.208134,0.092,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,10,Western Asia,15,105,0.177483,0.062,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,11,Central America,7,21,0.128571,0.307,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,12,Western Africa,15,105,0.089353,0.187,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,13,Southern America,12,66,-0.007536,0.493,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,14,Caribbean,14,91,-0.044322,0.663,999
+croissantLLM,croissantllm/CroissantLLMBase,musik,15,Western Europe,10,45,-0.067457,0.647,999
+gemma,google/gemma-3-4b-pt,musik,1,Southern Europe,11,55,0.721429,0.001,999
+gemma,google/gemma-3-4b-pt,musik,2,Northern Africa,7,21,0.568831,0.008,999
+gemma,google/gemma-3-4b-pt,musik,3,Central Africa,8,28,0.505747,0.004,999
+gemma,google/gemma-3-4b-pt,musik,4,Southern Asia,8,28,0.491516,0.006,999
+gemma,google/gemma-3-4b-pt,musik,5,Eastern Africa,13,78,0.390913,0.001,999
+gemma,google/gemma-3-4b-pt,musik,6,Central America,7,21,0.351948,0.171,999
+gemma,google/gemma-3-4b-pt,musik,7,Northern Europe,9,36,0.270785,0.048,999
+gemma,google/gemma-3-4b-pt,musik,8,South Eastern Asia,11,55,0.244444,0.156,999
+gemma,google/gemma-3-4b-pt,musik,9,Eastern Asia,7,21,0.211688,0.239,999
+gemma,google/gemma-3-4b-pt,musik,10,Eastern Europe,13,78,0.207855,0.115,999
+gemma,google/gemma-3-4b-pt,musik,11,Southern America,12,66,0.107233,0.185,999
+gemma,google/gemma-3-4b-pt,musik,12,Caribbean,14,91,0.046297,0.344,999
+gemma,google/gemma-3-4b-pt,musik,13,Western Europe,10,45,0.017391,0.476,999
+gemma,google/gemma-3-4b-pt,musik,14,Western Asia,15,105,-0.039857,0.623,999
+gemma,google/gemma-3-4b-pt,musik,15,Western Africa,15,105,-0.045055,0.62,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,1,Northern Africa,7,21,0.75974,0.002,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,2,Central Africa,8,28,0.70717,0.001,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,3,Southern Europe,11,55,0.640476,0.002,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,4,Southern Asia,8,28,0.592775,0.001,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,5,Northern Europe,9,36,0.54749,0.001,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,6,Central America,7,21,0.325974,0.186,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,7,Western Europe,10,45,0.267325,0.045,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,8,Eastern Africa,13,78,0.232818,0.028,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,9,Western Africa,15,105,0.164607,0.033,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,10,Eastern Europe,13,78,0.158791,0.17,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,11,Eastern Asia,7,21,0.142857,0.233,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,12,Caribbean,14,91,0.090588,0.17,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,13,Western Asia,15,105,0.059856,0.322,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,14,South Eastern Asia,11,55,0.042136,0.419,999
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,15,Southern America,12,66,0.008705,0.443,999
+llama,meta-llama/Llama-3.2-3B,musik,1,Southern Europe,11,55,0.704185,0.001,999
+llama,meta-llama/Llama-3.2-3B,musik,2,Central Africa,8,28,0.584018,0.003,999
+llama,meta-llama/Llama-3.2-3B,musik,3,Northern Africa,7,21,0.451948,0.047,999
+llama,meta-llama/Llama-3.2-3B,musik,4,Eastern Europe,13,78,0.422754,0.004,999
+llama,meta-llama/Llama-3.2-3B,musik,5,Eastern Africa,13,78,0.413675,0.001,999
+llama,meta-llama/Llama-3.2-3B,musik,6,Western Europe,10,45,0.308959,0.023,999
+llama,meta-llama/Llama-3.2-3B,musik,7,Western Asia,15,105,0.301881,0.005,999
+llama,meta-llama/Llama-3.2-3B,musik,8,Central America,7,21,0.279221,0.184,999
+llama,meta-llama/Llama-3.2-3B,musik,9,Eastern Asia,7,21,0.25974,0.129,999
+llama,meta-llama/Llama-3.2-3B,musik,10,South Eastern Asia,11,55,0.250722,0.124,999
+llama,meta-llama/Llama-3.2-3B,musik,11,Southern Asia,8,28,0.184455,0.151,999
+llama,meta-llama/Llama-3.2-3B,musik,12,Northern Europe,9,36,0.177349,0.173,999
+llama,meta-llama/Llama-3.2-3B,musik,13,Southern America,12,66,0.116042,0.216,999
+llama,meta-llama/Llama-3.2-3B,musik,14,Western Africa,15,105,0.085953,0.245,999
+llama,meta-llama/Llama-3.2-3B,musik,15,Caribbean,14,91,0.004443,0.493,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,1,Southern Europe,11,55,0.816378,0.001,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,2,Northern Africa,7,21,0.620779,0.002,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,3,Eastern Africa,13,78,0.410387,0.001,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,4,Eastern Asia,7,21,0.398701,0.041,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,5,Southern Asia,8,28,0.37329,0.049,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,6,Central Africa,8,28,0.354132,0.032,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,7,Northern Europe,9,36,0.22677,0.113,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,8,Eastern Europe,13,78,0.12877,0.215,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,9,Western Africa,15,105,0.11809,0.166,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,10,South Eastern Asia,11,55,0.106999,0.307,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,11,Western Europe,10,45,0.073386,0.317,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,12,Southern America,12,66,0.026573,0.386,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,13,Western Asia,15,105,0.019434,0.469,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,14,Caribbean,14,91,-0.097866,0.828,999
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,15,Central America,7,21,-0.158442,0.823,999
+qwen,Qwen/Qwen2.5-3B,musik,1,Southern Europe,11,55,0.818831,0.001,999
+qwen,Qwen/Qwen2.5-3B,musik,2,Central Africa,8,28,0.598796,0.001,999
+qwen,Qwen/Qwen2.5-3B,musik,3,Central America,7,21,0.383117,0.152,999
+qwen,Qwen/Qwen2.5-3B,musik,4,Southern Asia,8,28,0.362343,0.029,999
+qwen,Qwen/Qwen2.5-3B,musik,5,Northern Europe,9,36,0.332819,0.019,999
+qwen,Qwen/Qwen2.5-3B,musik,6,Northern Africa,7,21,0.275325,0.141,999
+qwen,Qwen/Qwen2.5-3B,musik,7,Eastern Africa,13,78,0.259778,0.011,999
+qwen,Qwen/Qwen2.5-3B,musik,8,Eastern Europe,13,78,0.234917,0.059,999
+qwen,Qwen/Qwen2.5-3B,musik,9,Southern America,12,66,0.14844,0.128,999
+qwen,Qwen/Qwen2.5-3B,musik,10,Western Europe,10,45,0.091568,0.296,999
+qwen,Qwen/Qwen2.5-3B,musik,11,Eastern Asia,7,21,0.085714,0.361,999
+qwen,Qwen/Qwen2.5-3B,musik,12,Western Africa,15,105,0.067137,0.299,999
+qwen,Qwen/Qwen2.5-3B,musik,13,Western Asia,15,105,-0.011368,0.545,999
+qwen,Qwen/Qwen2.5-3B,musik,14,Caribbean,14,91,-0.02467,0.605,999
+qwen,Qwen/Qwen2.5-3B,musik,15,South Eastern Asia,11,55,-0.106854,0.685,999
+sarvam,sarvamai/sarvam-1,musik,1,Southern Europe,11,55,0.692713,0.001,999
+sarvam,sarvamai/sarvam-1,musik,2,Northern Africa,7,21,0.579221,0.008,999
+sarvam,sarvamai/sarvam-1,musik,3,Central Africa,8,28,0.494253,0.002,999
+sarvam,sarvamai/sarvam-1,musik,4,Eastern Africa,13,78,0.383224,0.002,999
+sarvam,sarvamai/sarvam-1,musik,5,Western Africa,15,105,0.357184,0.003,999
+sarvam,sarvamai/sarvam-1,musik,6,Northern Europe,9,36,0.235779,0.108,999
+sarvam,sarvamai/sarvam-1,musik,7,Southern Asia,8,28,0.189381,0.122,999
+sarvam,sarvamai/sarvam-1,musik,8,South Eastern Asia,11,55,0.145022,0.272,999
+sarvam,sarvamai/sarvam-1,musik,9,Eastern Europe,13,78,0.134309,0.242,999
+sarvam,sarvamai/sarvam-1,musik,10,Central America,7,21,0.076623,0.364,999
+sarvam,sarvamai/sarvam-1,musik,11,Western Europe,10,45,0.045455,0.375,999
+sarvam,sarvamai/sarvam-1,musik,12,Caribbean,14,91,0.030737,0.419,999
+sarvam,sarvamai/sarvam-1,musik,13,Southern America,12,66,0.030373,0.39,999
+sarvam,sarvamai/sarvam-1,musik,14,Western Asia,15,105,0.016842,0.449,999
+sarvam,sarvamai/sarvam-1,musik,15,Eastern Asia,7,21,-0.155844,0.729,999

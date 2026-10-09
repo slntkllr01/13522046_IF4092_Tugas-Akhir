@@ -1,0 +1,267 @@
+﻿model,model_id,domain,row_order,Region,N_Artifacts,Avg_Error,Pred_Spread,Mechanism
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,1,Oceania,57,128.633509,34.261149,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,2,Southern America,238,70.762114,47.467078,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,3,Southern Africa,47,70.316857,32.713064,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,4,Caribbean,178,63.496364,40.334495,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,5,Western Africa,115,51.437461,38.933357,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,6,Central Africa,23,50.258237,45.765052,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,7,Central America,48,45.85818,38.076887,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,8,Northern America,390,44.931213,36.707198,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,9,Eastern Africa,75,44.675018,35.400967,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,10,South Eastern Asia,599,40.196395,43.367371,Genuine Hybridity
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,11,Southern Europe,503,28.603127,36.140954,Genuine Hybridity
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,12,Northern Africa,159,26.662878,25.239723,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,13,Western Europe,489,25.832092,30.933689,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,14,Western Asia,465,25.548848,29.412968,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,15,Eastern Europe,419,25.461954,26.539375,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,16,Eastern Asia,557,25.239952,30.897373,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,17,Central Asia,39,24.647525,25.728641,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,18,Northern Europe,162,24.482656,28.641906,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,19,Southern Asia,309,23.222457,24.160837,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,1,Oceania,57,119.87194,46.9833,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,2,Caribbean,178,67.894489,59.80455,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,3,Southern America,238,58.524263,48.703575,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,4,Western Africa,115,45.759384,38.069484,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,5,Central Africa,23,45.425158,47.550052,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,6,Northern America,390,40.981544,42.429386,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,7,Eastern Africa,75,40.90824,39.286252,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,8,Central America,48,37.637763,35.182822,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,9,Southern Africa,47,35.107462,31.527175,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,kuliner,10,Central Asia,39,33.658435,34.58751,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,11,South Eastern Asia,599,33.372305,42.548506,Genuine Hybridity
+gemma,google/gemma-3-4b-pt,kuliner,12,Northern Africa,159,31.169682,35.677773,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,13,Southern Europe,503,30.299648,39.952548,Genuine Hybridity
+gemma,google/gemma-3-4b-pt,kuliner,14,Northern Europe,162,27.448446,31.806057,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,15,Eastern Europe,419,27.328719,30.767997,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,16,Western Europe,489,27.219781,33.622657,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,17,Western Asia,465,25.307742,30.801662,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,18,Eastern Asia,557,24.729109,32.831457,Accurate
+gemma,google/gemma-3-4b-pt,kuliner,19,Southern Asia,309,24.559296,34.566763,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,1,Oceania,57,120.275262,38.519867,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,2,Caribbean,178,78.607019,50.864838,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,3,Southern America,238,70.468126,51.785345,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,4,Southern Africa,47,64.110174,41.945127,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,5,Western Africa,115,62.610772,51.751174,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,6,Central America,48,49.762941,51.569165,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,7,Northern America,390,47.61376,43.830193,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,8,Eastern Africa,75,46.084381,46.554599,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,9,Central Africa,23,46.025289,39.034551,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,10,South Eastern Asia,599,42.90169,48.853196,Genuine Hybridity
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,11,Northern Europe,162,33.90929,39.694204,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,12,Southern Europe,503,32.798037,41.874269,Genuine Hybridity
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,13,Eastern Europe,419,32.40262,36.02701,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,14,Northern Africa,159,32.120946,30.783018,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,15,Western Asia,465,30.14921,34.514276,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,16,Eastern Asia,557,29.686024,36.561438,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,17,Western Europe,489,29.56624,35.24928,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,18,Southern Asia,309,27.863203,32.249084,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,19,Central Asia,39,24.363413,24.780341,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,1,Oceania,57,127.33543,35.520032,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,2,Caribbean,178,61.814459,51.710472,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,3,Southern America,238,59.437109,48.073652,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,4,Western Africa,115,41.790272,40.872239,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,5,Southern Africa,47,39.883128,33.372343,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,6,Eastern Africa,75,38.80685,36.492052,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,7,Central Africa,23,36.345953,34.460189,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,8,Northern America,390,36.086485,36.655864,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,9,Central America,48,35.139097,36.534239,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,kuliner,10,South Eastern Asia,599,30.851432,38.909614,Genuine Hybridity
+llama,meta-llama/Llama-3.2-3B,kuliner,11,Northern Africa,159,25.784546,25.003617,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,12,Central Asia,39,23.758318,26.299406,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,13,Southern Europe,503,23.138242,31.083025,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,14,Eastern Europe,419,22.581585,24.028258,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,15,Western Europe,489,22.476801,28.774178,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,16,Eastern Asia,557,22.273141,29.459606,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,17,Northern Europe,162,22.243916,26.998614,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,18,Western Asia,465,21.670447,23.682903,Accurate
+llama,meta-llama/Llama-3.2-3B,kuliner,19,Southern Asia,309,21.074157,25.917649,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,1,Oceania,57,123.121652,47.620078,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,2,Caribbean,178,71.351831,62.53982,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,3,Southern America,238,69.337494,56.829637,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,4,Southern Africa,47,62.026868,44.012072,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,5,Western Africa,115,57.705362,52.780671,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,6,Northern America,390,49.589402,46.925142,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,7,South Eastern Asia,599,47.849803,49.420429,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,8,Central America,48,47.282856,45.549192,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,9,Central Africa,23,47.211143,51.655512,Genuine Hybridity
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,10,Eastern Africa,75,37.940229,33.934233,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,11,Southern Europe,503,37.12352,45.157292,Genuine Hybridity
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,12,Northern Africa,159,36.791503,36.994693,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,13,Northern Europe,162,34.96682,40.886452,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,14,Southern Asia,309,34.792806,40.350725,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,15,Eastern Europe,419,33.386124,37.53332,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,16,Western Europe,489,33.104879,39.09491,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,17,Eastern Asia,557,31.975289,38.320831,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,18,Western Asia,465,30.770182,36.109811,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,19,Central Asia,39,26.214043,25.396931,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,1,Oceania,57,128.969506,37.344789,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,2,Caribbean,178,70.286625,52.71444,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,3,Southern America,238,60.86119,45.536261,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,4,Southern Africa,47,50.721329,34.223412,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,5,Western Africa,115,50.049154,39.736036,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,6,Central Africa,23,46.249674,42.445015,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,7,Central America,48,41.48682,40.133368,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,8,Eastern Africa,75,40.410127,36.965853,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,9,Northern America,390,40.22141,39.230202,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,kuliner,10,South Eastern Asia,599,36.74428,43.51291,Genuine Hybridity
+qwen,Qwen/Qwen2.5-3B,kuliner,11,Central Asia,39,29.32479,26.184988,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,12,Eastern Europe,419,24.904731,26.307362,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,13,Southern Europe,503,24.478434,32.149102,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,14,Northern Africa,159,24.150938,24.587491,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,15,Eastern Asia,557,23.672496,30.093267,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,16,Western Europe,489,23.444142,29.9413,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,17,Northern Europe,162,23.230619,28.012503,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,18,Western Asia,465,22.638866,25.944407,Accurate
+qwen,Qwen/Qwen2.5-3B,kuliner,19,Southern Asia,309,21.811341,26.635767,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,1,Oceania,57,127.189128,27.912641,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,2,Southern Africa,47,72.543694,28.54179,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,3,Caribbean,178,71.857292,41.079105,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,4,Southern America,238,68.198085,39.810826,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,5,Central Africa,23,50.419468,37.49447,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,6,Western Africa,115,48.58073,36.386612,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,7,Eastern Africa,75,45.751543,29.519618,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,8,Central America,48,44.93867,29.335994,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,9,Northern America,390,43.95892,33.486528,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,kuliner,10,South Eastern Asia,599,39.837212,40.383414,Genuine Hybridity
+sarvam,sarvamai/sarvam-1,kuliner,11,Northern Africa,159,27.898414,23.617963,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,12,Southern Europe,503,25.843642,32.983594,Genuine Hybridity
+sarvam,sarvamai/sarvam-1,kuliner,13,Eastern Asia,557,25.496264,30.274845,Genuine Hybridity
+sarvam,sarvamai/sarvam-1,kuliner,14,Northern Europe,162,25.067017,30.959051,Genuine Hybridity
+sarvam,sarvamai/sarvam-1,kuliner,15,Western Asia,465,23.200626,24.97756,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,16,Eastern Europe,419,23.082603,23.846232,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,17,Central Asia,39,21.691325,19.441851,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,18,Southern Asia,309,20.770205,22.006942,Accurate
+sarvam,sarvamai/sarvam-1,kuliner,19,Western Europe,489,20.48574,24.645399,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,1,Oceania,32,102.736797,88.850452,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,2,Southern America,218,55.98341,47.391741,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,3,Caribbean,129,52.460692,44.938693,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,4,South Eastern Asia,159,50.343829,42.197648,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,5,Central America,74,50.04818,52.358233,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,6,Northern America,47,49.249795,41.431056,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,7,Southern Africa,41,45.782053,39.669552,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,8,Eastern Africa,104,40.336435,35.9649,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,9,Southern Asia,107,37.373289,38.805156,Genuine Hybridity
+croissantLLM,croissantllm/CroissantLLMBase,musik,10,Western Africa,128,36.393148,37.710827,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,11,Eastern Asia,98,36.026313,39.305329,Representational Fallback / Misplaced
+croissantLLM,croissantllm/CroissantLLMBase,musik,12,Western Asia,182,32.856123,35.127093,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,13,Northern Africa,104,30.019247,32.092745,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,14,Central Africa,116,28.369139,33.221015,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,15,Eastern Europe,221,25.385601,30.356435,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,16,Central Asia,69,24.576279,26.326778,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,17,Southern Europe,201,23.768314,31.454874,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,18,Northern Europe,129,22.846132,27.881665,Accurate
+croissantLLM,croissantllm/CroissantLLMBase,musik,19,Western Europe,155,20.312113,25.056362,Accurate
+gemma,google/gemma-3-4b-pt,musik,1,Oceania,32,79.379529,81.376415,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,2,Caribbean,129,52.523533,51.328321,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,3,Southern America,218,52.153196,56.56494,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,4,Northern America,47,45.65294,53.838531,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,5,South Eastern Asia,159,45.271229,45.000715,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,6,Southern Asia,107,41.858796,48.021048,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,7,Western Africa,128,41.353454,47.984865,Genuine Hybridity
+gemma,google/gemma-3-4b-pt,musik,8,Central America,74,40.684988,43.392371,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,9,Eastern Africa,104,39.522624,38.966139,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,10,Central Africa,116,37.114031,44.793557,Genuine Hybridity
+gemma,google/gemma-3-4b-pt,musik,11,Northern Africa,104,36.484761,38.363101,Accurate
+gemma,google/gemma-3-4b-pt,musik,12,Eastern Asia,98,35.973158,47.365255,Genuine Hybridity
+gemma,google/gemma-3-4b-pt,musik,13,Southern Africa,41,35.178548,40.760524,Representational Fallback / Misplaced
+gemma,google/gemma-3-4b-pt,musik,14,Central Asia,69,31.699043,37.828706,Accurate
+gemma,google/gemma-3-4b-pt,musik,15,Western Asia,182,31.277354,33.088122,Accurate
+gemma,google/gemma-3-4b-pt,musik,16,Eastern Europe,221,30.393535,36.934378,Accurate
+gemma,google/gemma-3-4b-pt,musik,17,Southern Europe,201,27.063133,36.864939,Accurate
+gemma,google/gemma-3-4b-pt,musik,18,Western Europe,155,23.83931,28.598905,Accurate
+gemma,google/gemma-3-4b-pt,musik,19,Northern Europe,129,21.326084,28.082217,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,1,Oceania,32,92.887266,89.117949,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,2,Southern America,218,60.560507,54.499741,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,3,Central America,74,55.481114,54.693449,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,4,Caribbean,129,53.191916,54.00874,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,5,Northern America,47,52.299217,51.424753,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,6,South Eastern Asia,159,50.870109,51.105322,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,7,Western Africa,128,47.785307,52.243856,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,8,Southern Africa,41,45.824967,47.338257,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,9,Eastern Africa,104,43.242765,45.692596,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,10,Southern Asia,107,41.597838,42.457617,Representational Fallback / Misplaced
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,11,Eastern Asia,98,40.909764,47.728891,Genuine Hybridity
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,12,Western Asia,182,37.699321,52.09727,Genuine Hybridity
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,13,Northern Africa,104,36.7531,43.19162,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,14,Central Africa,116,33.653644,39.032829,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,15,Eastern Europe,221,31.797186,37.346767,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,16,Central Asia,69,31.574024,40.602262,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,17,Southern Europe,201,31.455245,40.061697,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,18,Northern Europe,129,30.4586,37.725229,Accurate
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,19,Western Europe,155,26.039094,30.731317,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,1,Oceania,32,89.731145,86.993503,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,2,Southern America,218,51.743655,50.461378,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,3,Caribbean,129,50.132661,47.129181,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,4,South Eastern Asia,159,47.454798,44.304115,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,5,Northern America,47,46.718911,44.122998,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,6,Central America,74,44.685354,46.606967,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,7,Eastern Africa,104,36.448008,35.744417,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,8,Eastern Asia,98,35.605904,42.762364,Genuine Hybridity
+llama,meta-llama/Llama-3.2-3B,musik,9,Western Africa,128,34.306315,38.682713,Genuine Hybridity
+llama,meta-llama/Llama-3.2-3B,musik,10,Southern Africa,41,33.929405,31.876506,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,11,Southern Asia,107,33.632646,30.557208,Representational Fallback / Misplaced
+llama,meta-llama/Llama-3.2-3B,musik,12,Central Africa,116,29.306654,34.953384,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,13,Northern Africa,104,27.474806,25.941373,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,14,Western Asia,182,27.050944,30.487802,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,15,Central Asia,69,26.314095,28.51483,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,16,Southern Europe,201,25.711873,34.207799,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,17,Eastern Europe,221,24.723875,27.926379,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,18,Northern Europe,129,21.507537,26.252282,Accurate
+llama,meta-llama/Llama-3.2-3B,musik,19,Western Europe,155,20.617092,24.588371,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,1,Oceania,32,119.909107,65.762465,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,2,Caribbean,129,55.722119,53.930899,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,3,Southern America,218,54.330973,56.643689,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,4,Central America,74,52.27281,57.41285,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,5,Northern America,47,50.720231,54.571046,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,6,South Eastern Asia,159,48.530979,51.058155,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,7,Western Africa,128,44.484558,48.713675,Genuine Hybridity
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,8,Southern Asia,107,44.145347,47.385406,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,9,Eastern Asia,98,42.506825,50.050035,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,10,Southern Africa,41,41.475315,46.300765,Representational Fallback / Misplaced
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,11,Central Africa,116,39.03274,44.461146,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,12,Eastern Africa,104,38.409592,42.212254,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,13,Northern Africa,104,35.134943,36.790088,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,14,Eastern Europe,221,34.100496,40.855265,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,15,Western Asia,182,32.736138,38.925761,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,16,Central Asia,69,31.654054,38.360163,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,17,Northern Europe,129,30.721054,38.201135,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,18,Southern Europe,201,30.638223,39.540276,Accurate
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,19,Western Europe,155,29.040456,36.548509,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,1,Oceania,32,92.684523,79.671369,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,2,Southern America,218,52.631368,49.368107,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,3,Caribbean,129,49.394502,46.846412,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,4,Central America,74,49.118558,45.593819,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,5,Northern America,47,46.90569,46.165926,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,6,South Eastern Asia,159,44.770364,44.585876,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,7,Southern Africa,41,39.752174,39.663593,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,8,Eastern Africa,104,39.367045,36.203277,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,9,Southern Asia,107,36.8245,36.431745,Representational Fallback / Misplaced
+qwen,Qwen/Qwen2.5-3B,musik,10,Western Africa,128,34.800457,36.571553,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,11,Eastern Asia,98,34.718044,39.329244,Genuine Hybridity
+qwen,Qwen/Qwen2.5-3B,musik,12,Central Africa,116,32.098369,38.183537,Genuine Hybridity
+qwen,Qwen/Qwen2.5-3B,musik,13,Western Asia,182,32.070636,35.288358,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,14,Northern Africa,104,30.045673,34.313574,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,15,Eastern Europe,221,26.397003,32.263916,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,16,Central Asia,69,25.70779,29.533636,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,17,Southern Europe,201,25.573589,34.666609,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,18,Northern Europe,129,20.790938,26.180936,Accurate
+qwen,Qwen/Qwen2.5-3B,musik,19,Western Europe,155,19.221548,24.09537,Accurate
+sarvam,sarvamai/sarvam-1,musik,1,Oceania,32,109.289296,66.052946,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,2,Southern America,218,56.294383,45.877915,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,3,Northern America,47,54.866953,42.918523,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,4,Central America,74,52.031914,42.119729,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,5,South Eastern Asia,159,49.504642,38.584991,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,6,Caribbean,129,48.080214,40.371669,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,7,Southern Africa,41,47.43904,32.759057,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,8,Eastern Asia,98,43.129166,36.883687,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,9,Eastern Africa,104,38.167025,30.68687,Accurate
+sarvam,sarvamai/sarvam-1,musik,10,Southern Asia,107,34.735635,25.32195,Representational Fallback / Misplaced
+sarvam,sarvamai/sarvam-1,musik,11,Western Africa,128,33.065063,30.09041,Accurate
+sarvam,sarvamai/sarvam-1,musik,12,Central Africa,116,30.390733,31.971966,Genuine Hybridity
+sarvam,sarvamai/sarvam-1,musik,13,Northern Africa,104,26.145533,21.232413,Accurate
+sarvam,sarvamai/sarvam-1,musik,14,Central Asia,69,25.63674,24.511969,Accurate
+sarvam,sarvamai/sarvam-1,musik,15,Western Asia,182,22.926572,21.605848,Accurate
+sarvam,sarvamai/sarvam-1,musik,16,Southern Europe,201,22.678351,30.71947,Accurate
+sarvam,sarvamai/sarvam-1,musik,17,Eastern Europe,221,20.992085,21.300092,Accurate
+sarvam,sarvamai/sarvam-1,musik,18,Northern Europe,129,20.713899,24.045884,Accurate
+sarvam,sarvamai/sarvam-1,musik,19,Western Europe,155,18.047747,22.240662,Accurate

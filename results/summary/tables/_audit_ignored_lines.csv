@@ -1,0 +1,321 @@
+﻿model,model_id,domain,cell_idx,section,alasan,line
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m15.7 MB/s[0m eta [36m0:00:00[0m
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,1,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,2,setup,info hardware,GPU: Tesla T4
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,2,setup,info hardware,VRAM: 15.6 GB
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading croissantllm/CroissantLLMBase in 4-bit NF4 …
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,4,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 3 token: [1248, 2554, 1105]"
+gemma,google/gemma-3-4b-pt,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m18.2 MB/s[0m eta [36m0:00:00[0m
+gemma,google/gemma-3-4b-pt,kuliner,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+gemma,google/gemma-3-4b-pt,kuliner,2,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+gemma,google/gemma-3-4b-pt,kuliner,3,setup,info hardware,GPU: Tesla T4
+gemma,google/gemma-3-4b-pt,kuliner,3,setup,info hardware,VRAM: 15.6 GB
+gemma,google/gemma-3-4b-pt,kuliner,4,setup,nama model (diambil dari MODEL_ID),⏳ Loading google/gemma-3-4b-pt in 4-bit NF4 …
+gemma,google/gemma-3-4b-pt,kuliner,5,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 2 token: [31029, 498]"
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[200/2414] 29s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[400/2414] 58s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[600/2414] 86s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[800/2414] 115s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[1000/2414] 143s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[1200/2414] 172s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[1400/2414] 201s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[1600/2414] 230s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[1800/2414] 258s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[2000/2414] 287s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[2200/2414] 316s
+gemma,google/gemma-3-4b-pt,kuliner,35,lw0,progress ekstraksi (timing),[2400/2414] 345s
+gemma,google/gemma-3-4b-pt,kuliner,36,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: gemma-3-4b-pt_kuliner_layerwise_*.csv / *.png
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m3.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m80.3/80.3 kB[0m [31m7.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m62.4/62.4 kB[0m [31m6.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m1.1 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m3.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.3 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m3.3 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.1/40.1 kB[0m [31m3.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.2/42.2 kB[0m [31m2.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.1/40.1 kB[0m [31m1.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m2.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m1.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m3.3 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m3.1 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m1.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m2.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m2.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m1.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m1.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.2/40.2 kB[0m [31m1.8 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.2/40.2 kB[0m [31m1.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m469.0/469.0 kB[0m [31m13.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.2/10.2 MB[0m [31m48.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m23.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m49.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m9.9/9.9 MB[0m [31m66.3 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m35.3/35.3 MB[0m [31m15.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.1/3.1 MB[0m [31m42.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[?25h[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,konflik versi pip,"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,konflik versi pip,"cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,konflik versi pip,"dask-cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,konflik versi pip,"gradio 6.29.0 requires huggingface-hub<3.0,>=1.16.0, but you have huggingface-hub 0.29.3 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,"diffusers 0.40.0 requires huggingface-hub<2.0,>=1.23.0, but you have huggingface-hub 0.29.3 which is incompatible.[0m[31m"
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,0,setup,progress bar / ANSI pip,[0mAll packages installed.
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,1,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,2,setup,info hardware,GPU: Tesla T4
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,2,setup,info hardware,VRAM: 15.6 GB
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading kakaocorp/kanana-nano-2.1b-base in 4-bit NF4 …
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,4,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 2 token: [23886, 263]"
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,35,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: kanana-nano-2.1b-base_kuliner_layerwise_*.csv / *.png
+llama,meta-llama/Llama-3.2-3B,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m12.3 MB/s[0m eta [36m0:00:00[0m
+llama,meta-llama/Llama-3.2-3B,kuliner,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+llama,meta-llama/Llama-3.2-3B,kuliner,2,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+llama,meta-llama/Llama-3.2-3B,kuliner,3,setup,info hardware,GPU: Tesla T4
+llama,meta-llama/Llama-3.2-3B,kuliner,3,setup,info hardware,VRAM: 15.6 GB
+llama,meta-llama/Llama-3.2-3B,kuliner,4,setup,nama model (diambil dari MODEL_ID),⏳ Loading meta-llama/Llama-3.2-3B in 4-bit NF4 …
+llama,meta-llama/Llama-3.2-3B,kuliner,5,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 2 token: [23886, 263]"
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[200/2414] 17s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[400/2414] 34s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[600/2414] 52s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[800/2414] 69s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[1000/2414] 86s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[1200/2414] 104s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[1400/2414] 121s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[1600/2414] 138s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[1800/2414] 155s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[2000/2414] 172s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[2200/2414] 190s
+llama,meta-llama/Llama-3.2-3B,kuliner,35,lw0,progress ekstraksi (timing),[2400/2414] 207s
+llama,meta-llama/Llama-3.2-3B,kuliner,36,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: Llama-3.2-3B_kuliner_layerwise_*.csv / *.png
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,Installing build dependencies ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,Getting requirements to build wheel ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,Preparing metadata (pyproject.toml) ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,Building wheel for transformers (pyproject.toml) ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.6/6.6 MB[0m [31m66.8 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m6.4 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m8.0/8.0 MB[0m [31m93.8 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m4.7 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m80.3/80.3 kB[0m [31m8.3 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m62.4/62.4 kB[0m [31m6.2 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m16.2 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m79.8 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m9.9/9.9 MB[0m [31m84.7 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m35.3/35.3 MB[0m [31m19.6 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[?25h[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,konflik versi pip,"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 3.0.6 which is incompatible."
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,konflik versi pip,"cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,"dask-cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible.[0m[31m"
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,0,setup,progress bar / ANSI pip,[0m✅ All packages updated and installed.
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,1,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,2,setup,info hardware,GPU: Tesla T4
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,2,setup,info hardware,VRAM: 15.6 GB
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading mistralai/Ministral-3-3B-Base-2512 in 4-bit NF4 …
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,4,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 2 token: [33263, 1263]"
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[200/2414] 17s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[400/2414] 35s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[600/2414] 52s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[800/2414] 69s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[1000/2414] 86s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[1200/2414] 104s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[1400/2414] 122s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[1600/2414] 139s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[1800/2414] 156s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[2000/2414] 173s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[2200/2414] 191s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,34,lw0,progress ekstraksi (timing),[2400/2414] 207s
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,35,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: Ministral-3-3B-Base-2512_kuliner_layerwise_*.csv / *.png
+qwen,Qwen/Qwen2.5-3B,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m15.0 MB/s[0m eta [36m0:00:00[0m
+qwen,Qwen/Qwen2.5-3B,kuliner,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+qwen,Qwen/Qwen2.5-3B,kuliner,2,setup,info hardware,GPU: Tesla T4
+qwen,Qwen/Qwen2.5-3B,kuliner,2,setup,info hardware,VRAM: 15.6 GB
+qwen,Qwen/Qwen2.5-3B,kuliner,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading Qwen2.5-3B in 4-bit NF4 …
+qwen,Qwen/Qwen2.5-3B,kuliner,4,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 2 token: [23022, 263]"
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[200/2414] 31s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[400/2414] 58s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[600/2414] 84s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[800/2414] 110s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[1000/2414] 140s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[1200/2414] 166s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[1400/2414] 191s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[1600/2414] 221s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[1800/2414] 247s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[2000/2414] 274s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[2200/2414] 300s
+qwen,Qwen/Qwen2.5-3B,kuliner,34,lw0,progress ekstraksi (timing),[2400/2414] 326s
+qwen,Qwen/Qwen2.5-3B,kuliner,35,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: Qwen2.5-3B_kuliner_layerwise_*.csv / *.png
+sarvam,sarvamai/sarvam-1,kuliner,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m17.5 MB/s[0m eta [36m0:00:00[0m
+sarvam,sarvamai/sarvam-1,kuliner,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+sarvam,sarvamai/sarvam-1,kuliner,1,setup,daftar file Drive,"['qwen_country_layer_repr.pkl', 'qwen_pure_food_cache.pkl', 'llama_country_layer_repr.pkl', 'llama_pure_food_cache.pkl', 'gemma_country_layer_repr.pkl', 'gemma_pure_food_cache.pkl', 'sarvam_country_layer_repr.pkl', 'sarvam_pure_food_cache.pkl', 'mistral_country_layer_repr.pkl', 'mistral_pure_food_ca"
+sarvam,sarvamai/sarvam-1,kuliner,2,setup,info hardware,GPU: Tesla T4
+sarvam,sarvamai/sarvam-1,kuliner,2,setup,info hardware,VRAM: 15.6 GB
+sarvam,sarvamai/sarvam-1,kuliner,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading sarvamai/sarvam-1 in 4-bit NF4 …
+sarvam,sarvamai/sarvam-1,kuliner,4,setup,contoh tokenisasi,"- Contoh: 'Rawon' diwakili oleh 3 token: [4902, 6984, 4371]"
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[200/2414] 17s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[400/2414] 33s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[600/2414] 49s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[800/2414] 66s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[1000/2414] 82s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[1200/2414] 99s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[1400/2414] 115s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[1600/2414] 132s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[1800/2414] 148s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[2000/2414] 165s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[2200/2414] 181s
+sarvam,sarvamai/sarvam-1,kuliner,34,lw0,progress ekstraksi (timing),[2400/2414] 198s
+sarvam,sarvamai/sarvam-1,kuliner,35,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Food KB/Data/: sarvam-1_kuliner_layerwise_*.csv / *.png
+croissantLLM,croissantllm/CroissantLLMBase,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m21.3 MB/s[0m eta [36m0:00:00[0m
+croissantLLM,croissantllm/CroissantLLMBase,musik,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+croissantLLM,croissantllm/CroissantLLMBase,musik,2,setup,info hardware,GPU: Tesla T4
+croissantLLM,croissantllm/CroissantLLMBase,musik,2,setup,info hardware,VRAM: 15.6 GB
+croissantLLM,croissantllm/CroissantLLMBase,musik,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading croissantllm/CroissantLLMBase in 4-bit NF4 …
+croissantLLM,croissantllm/CroissantLLMBase,musik,4,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [1222, 1142, 189, 29156]"
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[200/1766] 10s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[400/1766] 22s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[600/1766] 33s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[800/1766] 44s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[1000/1766] 55s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[1200/1766] 65s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[1400/1766] 77s
+croissantLLM,croissantllm/CroissantLLMBase,musik,31,lw0,progress ekstraksi (timing),[1600/1766] 88s
+gemma,google/gemma-3-4b-pt,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m19.9 MB/s[0m eta [36m0:00:00[0m
+gemma,google/gemma-3-4b-pt,musik,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+gemma,google/gemma-3-4b-pt,musik,3,setup,info hardware,GPU: Tesla T4
+gemma,google/gemma-3-4b-pt,musik,3,setup,info hardware,VRAM: 15.6 GB
+gemma,google/gemma-3-4b-pt,musik,4,setup,nama model (diambil dari MODEL_ID),⏳ Loading google/gemma-3-4b-pt in 4-bit NF4 …
+gemma,google/gemma-3-4b-pt,musik,5,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [34937, 236750, 14301]"
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[200/1766] 28s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[400/1766] 56s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[600/1766] 85s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[800/1766] 115s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[1000/1766] 144s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[1200/1766] 173s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[1400/1766] 203s
+gemma,google/gemma-3-4b-pt,musik,32,lw0,progress ekstraksi (timing),[1600/1766] 232s
+gemma,google/gemma-3-4b-pt,musik,33,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: gemma-3-4b-pt_musik_layerwise_*.csv / *.png
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m6.7 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m80.3/80.3 kB[0m [31m2.8 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m62.4/62.4 kB[0m [31m2.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m1.3 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m1.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.1 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.7 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m3.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m44.0/44.0 kB[0m [31m2.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.1/40.1 kB[0m [31m2.8 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.2/42.2 kB[0m [31m3.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.1/40.1 kB[0m [31m2.6 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m2.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m3.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m2.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.0/42.0 kB[0m [31m3.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m2.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m2.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m2.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m747.5 kB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m1.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.2/40.2 kB[0m [31m2.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.2/40.2 kB[0m [31m1.7 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m469.0/469.0 kB[0m [31m14.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.2/10.2 MB[0m [31m80.0 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m14.4 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m88.8 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m9.9/9.9 MB[0m [31m88.2 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m35.3/35.3 MB[0m [31m21.5 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.1/3.1 MB[0m [31m68.9 MB/s[0m eta [36m0:00:00[0m
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[?25h[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,konflik versi pip,"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,konflik versi pip,"cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,konflik versi pip,"dask-cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,konflik versi pip,"gradio 6.29.0 requires huggingface-hub<3.0,>=1.16.0, but you have huggingface-hub 0.29.3 which is incompatible."
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,"diffusers 0.40.0 requires huggingface-hub<2.0,>=1.23.0, but you have huggingface-hub 0.29.3 which is incompatible.[0m[31m"
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,0,setup,progress bar / ANSI pip,[0mAll packages installed.
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,2,setup,info hardware,GPU: Tesla T4
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,2,setup,info hardware,VRAM: 15.6 GB
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading kakaocorp/kanana-nano-2.1b-base in 4-bit NF4 …
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,4,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [53867, 119535]"
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[200/1766] 13s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[400/1766] 26s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[600/1766] 39s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[800/1766] 52s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[1000/1766] 65s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[1200/1766] 78s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[1400/1766] 91s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,31,lw0,progress ekstraksi (timing),[1600/1766] 104s
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,32,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: kanana-nano-2.1b-base_musik_layerwise_*.csv / *.png
+llama,meta-llama/Llama-3.2-3B,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m17.3 MB/s[0m eta [36m0:00:00[0m
+llama,meta-llama/Llama-3.2-3B,musik,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+llama,meta-llama/Llama-3.2-3B,musik,3,setup,info hardware,GPU: Tesla T4
+llama,meta-llama/Llama-3.2-3B,musik,3,setup,info hardware,VRAM: 15.6 GB
+llama,meta-llama/Llama-3.2-3B,musik,4,setup,nama model (diambil dari MODEL_ID),⏳ Loading meta-llama/Llama-3.2-3B in 4-bit NF4 …
+llama,meta-llama/Llama-3.2-3B,musik,5,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [53867, 119535]"
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[200/1766] 17s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[400/1766] 35s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[600/1766] 52s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[800/1766] 69s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[1000/1766] 87s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[1200/1766] 105s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[1400/1766] 122s
+llama,meta-llama/Llama-3.2-3B,musik,32,lw0,progress ekstraksi (timing),[1600/1766] 139s
+llama,meta-llama/Llama-3.2-3B,musik,33,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: Llama-3.2-3B_musik_layerwise_*.csv / *.png
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,Installing build dependencies ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,Getting requirements to build wheel ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,Preparing metadata (pyproject.toml) ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,Building wheel for transformers (pyproject.toml) ... [?25l[?25hdone
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.6/6.6 MB[0m [31m106.9 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m8.9 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m8.0/8.0 MB[0m [31m127.7 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m79.5/79.5 kB[0m [31m9.5 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m80.3/80.3 kB[0m [31m8.3 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m62.4/62.4 kB[0m [31m6.0 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m20.3 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m88.0 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m9.9/9.9 MB[0m [31m113.2 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m35.3/35.3 MB[0m [31m15.9 MB/s[0m eta [36m0:00:00[0m
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[?25h[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,konflik versi pip,"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 3.0.6 which is incompatible."
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,konflik versi pip,"cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible."
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,"dask-cudf-cu13 26.6.0 requires pandas<2.4.0,>=2.0, but you have pandas 3.0.6 which is incompatible.[0m[31m"
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,0,setup,progress bar / ANSI pip,[0m✅ All packages updated and installed.
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,2,setup,info hardware,GPU: Tesla T4
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,2,setup,info hardware,VRAM: 15.6 GB
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading mistralai/Ministral-3-3B-Base-2512 in 4-bit NF4 …
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,4,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [74207, 1114, 16055]"
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[200/1766] 17s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[400/1766] 35s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[600/1766] 52s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[800/1766] 70s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[1000/1766] 87s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[1200/1766] 105s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[1400/1766] 122s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,31,lw0,progress ekstraksi (timing),[1600/1766] 140s
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,32,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: Ministral-3-3B-Base-2512_musik_layerwise_*.csv / *.png
+qwen,Qwen/Qwen2.5-3B,musik,2,setup,info hardware,GPU: Tesla T4
+qwen,Qwen/Qwen2.5-3B,musik,2,setup,info hardware,VRAM: 15.6 GB
+qwen,Qwen/Qwen2.5-3B,musik,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading Qwen/Qwen2.5-3B in 4-bit NF4 …
+qwen,Qwen/Qwen2.5-3B,musik,4,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [52767, 81, 30429]"
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[200/1766] 22s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[400/1766] 44s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[600/1766] 66s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[800/1766] 87s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[1000/1766] 109s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[1200/1766] 130s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[1400/1766] 152s
+qwen,Qwen/Qwen2.5-3B,musik,31,lw0,progress ekstraksi (timing),[1600/1766] 173s
+qwen,Qwen/Qwen2.5-3B,musik,32,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: Qwen2.5-3B_musik_layerwise_*.csv / *.png
+sarvam,sarvamai/sarvam-1,musik,0,setup,progress bar / ANSI pip,[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m43.1/43.1 MB[0m [31m62.7 MB/s[0m eta [36m0:00:00[0m
+sarvam,sarvamai/sarvam-1,musik,0,setup,progress bar / ANSI pip,[?25hAll packages installed.
+sarvam,sarvamai/sarvam-1,musik,2,setup,info hardware,GPU: Tesla T4
+sarvam,sarvamai/sarvam-1,musik,2,setup,info hardware,VRAM: 15.6 GB
+sarvam,sarvamai/sarvam-1,musik,3,setup,nama model (diambil dari MODEL_ID),⏳ Loading sarvamai/sarvam-1 in 4-bit NF4 …
+sarvam,sarvamai/sarvam-1,musik,4,setup,contoh tokenisasi,"- Contoh: 'Dilruba' -> Tokens: [4884, 4514, 5177, 32295]"
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[200/1766] 14s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[400/1766] 29s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[600/1766] 43s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[800/1766] 58s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[1000/1766] 72s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[1200/1766] 86s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[1400/1766] 101s
+sarvam,sarvamai/sarvam-1,musik,31,lw0,progress ekstraksi (timing),[1600/1766] 115s
+sarvam,sarvamai/sarvam-1,musik,32,lw1,path file,Tersimpan di /content/drive/MyDrive/Percobaan TA/Instrument/Data/: sarvam-1_musik_layerwise_*.csv / *.png

@@ -1,0 +1,15 @@
+﻿model,model_id,domain,file
+croissantLLM,croissantllm/CroissantLLMBase,kuliner,croissantLLM_kuliner_with_SD_layerwise.ipynb
+gemma,google/gemma-3-4b-pt,kuliner,gemma_kuliner_with_SD_layerwise.ipynb
+kanana,kakaocorp/kanana-nano-2.1b-base,kuliner,kanana_kuliner_with_SD_layerwise.ipynb
+llama,meta-llama/Llama-3.2-3B,kuliner,llama_kuliner_with_SD_layerwise.ipynb
+mistral,mistralai/Ministral-3-3B-Base-2512,kuliner,mistral_kuliner_with_SD_layerwise.ipynb
+qwen,Qwen/Qwen2.5-3B,kuliner,qwen_kuliner_with_SD_layerwise.ipynb
+sarvam,sarvamai/sarvam-1,kuliner,sarvam_kuliner_with_SD_layerwise.ipynb
+croissantLLM,croissantllm/CroissantLLMBase,musik,croissantLLM_musik_with_SD_layerwise.ipynb
+gemma,google/gemma-3-4b-pt,musik,gemma_musik_with_SD_layerwise.ipynb
+kanana,kakaocorp/kanana-nano-2.1b-base,musik,kanana_musik_with_SD_layerwise.ipynb
+llama,meta-llama/Llama-3.2-3B,musik,llama_musik_with_SD_layerwise.ipynb
+mistral,mistralai/Ministral-3-3B-Base-2512,musik,mistral_musik_with_SD_layerwise.ipynb
+qwen,Qwen/Qwen2.5-3B,musik,qwen_musik_with_SD_layerwise.ipynb
+sarvam,sarvamai/sarvam-1,musik,sarvam_musik_with_SD_layerwise.ipynb
