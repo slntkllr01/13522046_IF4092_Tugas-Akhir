@@ -1,64 +1,103 @@
-# Hasil ekstraksi: 7 model × 2 domain (kuliner, musik)
+# Extracted results: 7 models x 2 domains (culinary, instrument)
 
-Semua angka di folder `hasil_csv/` dibaca langsung dari output sel notebook (stdout) oleh `extract_results.py`.
-Tidak ada angka yang diketik manual.
+Every number in this folder was read from the printed output (stdout) of the notebook cells by `scripts/extract_results.py`. No number was typed by hand.
+The values are rounded the way the notebooks print them. For the original, unrounded layer-wise files see [`../layerwise/`](../layerwise/README.md).
 
-## Cara menjalankan ulang
+In the data, the domain names are the Indonesian labels `kuliner` (culinary) and `musik` (instrument). Column suffixes such as `_err` mean the mean great-circle error in degrees.
+
+## Re-running
+
+From the repository root (PowerShell or bash):
+
 ```
-python extract_results.py Culinary.zip Music.zip -o hasil_csv --xlsx
-python verify_numbers.py   Culinary.zip Music.zip hasil_csv   # cek 1: multiset angka
-python check_consistency.py Culinary.zip Music.zip hasil_csv  # cek 2: posisi kolom/baris + cek silang
+python scripts/extract_results.py notebooks/culinary notebooks/instrument -o _tmp_tables --xlsx
+python scripts/verify_numbers.py   notebooks/culinary notebooks/instrument _tmp_tables   # check 1: multiset of numbers
+python scripts/check_consistency.py notebooks/culinary notebooks/instrument _tmp_tables  # check 2: column/row position and cross-checks
 ```
-Input boleh berupa zip, folder berisi .ipynb, atau file .ipynb satuan.
 
-## Verifikasi (hasil run terakhir)
-1. **Audit baris**: setiap baris output yang mengandung angka tertangkap parser, atau diabaikan dengan alasan tertulis
-   (progress bar pip, timing ekstraksi, path file, daftar file zip). Lihat `_audit_ignored_lines.csv`.
-   `_audit_unparsed_lines.csv` = OK (0 baris lolos). Header tabel yang tidak dikenal membuat skrip berhenti.
-2. **`verify_numbers.py`**: untuk tiap notebook, multiset semua angka di output sama persis dengan multiset angka di CSV
-   (0 angka hilang, 0 angka "karangan"). Angka non-hasil (nomor seksi, ambang di teks penjelas, penghitung progress)
-   dikeluarkan secara eksplisit lewat daftar regex di skrip.
-3. **`check_consistency.py`**: 4815 cek, 0 gagal. Isinya:
-   - Semua tabel pandas di-parse ulang dengan metode lain (split dari kanan) lalu dibandingkan sel per sel.
-     Cek ini menangkap nilai yang tertukar kolom atau baris, yang tidak bisa ditangkap cek multiset.
-   - Cek silang: nilai yang sama di beberapa tabel harus identik (Avg_Error, Centroid_Distance, Bias_Ratio, N_Artifacts);
-     |vektor bias| harus sama dengan Centroid_Distance; ringkasan layer-wise sama dengan argmin tabel;
-     jumlah Count regional sama dengan n; daftar region sama dengan kolom Mechanism.
-   - Uji mutasi: menukar dua sel atau menggeser satu angka sebesar 0.01 terbukti terdeteksi.
+The input can be a zip file, a folder with `.ipynb` files, or a single `.ipynb` file. The extraction writes all CSV files into one flat folder (`_tmp_tables`);
+in this folder they are split into the root (`00_`, `01_`, `semua_hasil.xlsx`) and `tables/` (all other CSV files). The CSV files of a fresh extraction are byte-identical to the 34 CSV files here.
 
-## Isi folder
-| File | Isi |
+## Verification (last run)
+
+1. **Line audit.** Every output line that contains a number is either captured by the parser or ignored with a written reason (pip progress bars, extraction timings, file paths, lists of zip files).
+   See `tables/_audit_ignored_lines.csv`. `tables/_audit_unparsed_lines.csv` contains a single status row (0 lines escaped). An unknown table header stops the script.
+2. **`verify_numbers.py`.** For each notebook, the multiset of all numbers in the output equals the multiset of numbers in the CSV files
+   (0 numbers missing, 0 numbers added). Numbers that are not results (section numbers, thresholds in explanatory text, progress counters) are excluded explicitly through a list of regular expressions in the script.
+   Last line of the run: `HASIL: OK: setiap angka di CSV benar-benar ada di output notebook`.
+3. **`check_consistency.py`.** 4815 checks, 0 failures. The checks are:
+   - All pandas tables are parsed a second time by a different method (split from the right) and compared cell by cell. This catches values that were swapped between columns or rows, which the multiset check cannot catch.
+   - Cross-checks: the same value in several tables must be identical (`Avg_Error`, `Centroid_Distance`, `Bias_Ratio`, `N_Artifacts`); the length of the bias vector must equal `Centroid_Distance`;
+     the layer-wise summary must equal the argmin of the table; the sum of the regional `Count` must equal n; the list of regions must equal the `Mechanism` column.
+   - Mutation test (swapping two cells, or shifting one number by 0.01, must be detected): this was stated for an earlier version of this README, but the test is not part of the scripts in `scripts/`.
+     `[TODO: add the mutation-test script, or remove this statement]`
+
+## Files in this folder
+
+Files in the root:
+
+| File | Content |
 |---|---|
-| `00_ringkasan_per_model.csv` | 1 baris per model×domain: metrik utama semua kondisi + ringkasan layer-wise |
-| `01_semua_skalar_long.csv` | semua angka tunggal (format long) + `source_line` = baris asli output-nya |
-| `regional_kontrol / regional_agregat / regional_eksklusif` | tabel akurasi per wilayah |
-| `c1_* , c2_* , c3_* , c4_*` | Eksperimen C (centroid, mekanisme, bias ratio, arah bias, confusion, galat ternormalisasi, korelasi struktur) |
-| `c3_salah_kira`, `c4_low_error_low_discrim` | baris naratif (dibulatkan 1–3 desimal; sudah dicek terhadap tabel presisi penuh) |
-| `d_*` | Eksperimen D (bobot, perbandingan original vs balanced, effect size, ranking, top-10) |
-| `null_jarak_region` | baseline prediktor nihil per wilayah |
-| `layerwise_agregat`, `layerwise_individual` | kurva per layer (layer 0 = embedding) |
-| `layerwise_individual_progress` | log progress per layer (Err 2 desimal + detik kumulatif); hanya notebook dengan log per layer |
-| `daftar_region` | semua daftar region yang dicetak (kuadran, high/low error, Bias_Ratio>0.4, dll.) |
-| `kontrol_sanity_top5` | 5 kandidat teratas per negara di sel sanity |
-| `semua_hasil.xlsx` | semua tabel di atas dalam satu workbook |
-| `_sumber_notebook.csv` | file sumber + MODEL_ID (diambil dari kode sel) |
+| `00_ringkasan_per_model.csv` | One row per model x domain (14 rows, 52 columns): main metrics of all conditions and the layer-wise summary. |
+| `01_semua_skalar_long.csv` | All single numbers in long format (1920 rows): `model, model_id, domain, section, metric, value, cell_idx, source_line`; `source_line` is the original output line. |
+| `semua_hasil.xlsx` | All tables in one workbook. |
 
-## Catatan agar tidak salah baca
-- `Agregat_err` (Cell Eksperimen A) = seed 42. `LW_agg_last_err_mean5seed` = rata-rata 5 seed pada layer terakhir.
-  Keduanya memang berbeda.
-- `LW_replik_*_layerwise` dan `LW_replik_*_asli` adalah angka layer terakhir dari sel layer-wise dan dari sel aslinya.
-  Pada Mistral (Ministral-3-3B) keduanya TIDAK sama (lihat bawah).
-- `Prob_as_printed` di sanity check adalah nilai yang dicetak dengan label "Prob". Nilainya >1, jadi itu logit/skor,
-  bukan probabilitas.
-- `setup.params_B_as_printed` adalah jumlah parameter yang dihitung setelah kuantisasi 4-bit (mis. Qwen 3B tercetak 1.70B).
-- `b.n_titik` tercetak dua kali di notebook kuliner (nilainya sama); detektor konflik memastikan tidak ada metrik
-  ganda dengan nilai berbeda.
+Files in `tables/` (every table has the columns `model, model_id, domain` first; `row_order` keeps the printed order):
 
-## Temuan dari data (bukan masalah ekstraksi)
-- **Mistral tidak lolos replikasi.** Layer terakhir di sel layer-wise berbeda dari fitur yang dipakai eksperimen utama.
-  Selisih maks fitur vs cache: 44.8 (kuliner) dan 52.2 (musik); model lain ≤ 9.8.
-  Agregat 15.19° vs 16.26° dan Individual 37.81° vs 41.92° (kuliner); 21.32° vs 22.59° dan 39.96° vs 41.31° (musik).
-  Di kuliner, sel Layer-wise 0 mencetak "Cache lama tidak cocok … Ekstraksi ulang".
-  Jadi kurva layer-wise Mistral tidak tersambung ke angka utama Mistral.
-- **Alpha mentok di batas grid untuk SEMUA model, bukan hanya Qwen.** Alpha Individual di eksperimen utama = 500
-  di 14/14 run. Di layer-wise, 86–100% fold-layer berada di batas 500.
+| File | Content |
+|---|---|
+| `regional_kontrol.csv`, `regional_agregat.csv`, `regional_eksklusif.csv` | Accuracy by region for the control condition, the inclusive Aggregate condition (Experiment A) and the exclusive baseline (single-country artefacts): `Count`, `Avg_Error_Deg`, `Std_Error_Deg` (not in the exclusive table), `MAE_Lat`, `MAE_Lon`. |
+| `c1_centroid.csv`, `c1_centroid_distance.csv`, `c1_mekanisme.csv` | Experiment C.1: predicted and actual regional centroids, `Pred_Spread`, `Centroid_Distance`, and the `Mechanism` label. |
+| `c2_bias_ratio.csv`, `c2_klasifikasi_2x2.csv`, `c2_ranking.csv` | Experiment C.2: `Bias_Ratio`, its 2x2 classification, and the ranks of `Avg_Error` versus `Bias_Ratio`. |
+| `c3_bias_vector.csv`, `c3_confusion_target.csv`, `c3_salah_kira.csv` | Experiment C.3: bias vector (north, east, angle), closest confusion target per region, and the narrative lines "region was guessed as ..." (rounded to 1 decimal; checked against the full-precision tables). |
+| `c4_normalized_error.csv`, `c4_structure_correlation.csv`, `c4_rank_shift.csv`, `c4_gabungan.csv`, `c4_low_error_low_discrim.csv` | Experiment C.4: normalised error, structure correlation with Mantel p-value, rank shift, the combined table, and the narrative lines on regions with low error and low discrimination (rounded to 2 and 3 decimals). |
+| `d_bobot_region.csv`, `d_perbandingan.csv`, `d_effect_size.csv`, `d_ranking.csv`, `d_top10_original.csv`, `d_top10_balanced.csv` | Experiment D (region-balanced probe): weights per region, original versus balanced comparison, effect size and status, ranking, and top-10 lists. |
+| `null_jarak_region.csv` | Distance of the null-predictor mean to the actual regional centroid, per region. |
+| `layerwise_agregat.csv`, `layerwise_individual.csv` | Per-layer curves in the printed rounding (layer 0 = embedding output). Column meanings are in [`../layerwise/README.md`](../layerwise/README.md). |
+| `layerwise_individual_progress.csv` | Progress log per layer (`Err_2dp`, cumulative seconds); only for notebooks that print a per-layer log. |
+| `daftar_region.csv` | All printed lists of regions (quadrants, high/low error, `Bias_Ratio` > 0.4, and so on). |
+| `kontrol_sanity_top5.csv` | The five top candidates per country in the sanity-check cell. |
+| `_sumber_notebook.csv` | Source file and `MODEL_ID` of every notebook (read from the cell code). |
+| `_audit_ignored_lines.csv`, `_audit_unparsed_lines.csv` | Audit of the output lines (see "Verification"). |
+
+## Notes for reading the tables
+
+- `Agregat_err` (Experiment A cell) is the result for seed 42. `LW_agg_last_err_mean5seed` is the mean over 5 seeds at the last layer. The two values differ by design.
+- `LW_replik_*_layerwise` and `LW_replik_*_asli` are the last-layer values from the layer-wise cell and from the original cell. For Ministral-3-3B (`mistral`) they are not equal; see below.
+- `Prob_as_printed` in the sanity check is the number printed with the label "Prob". Its values are larger than 1, so it is a logit or score, not a probability.
+- `setup.params_B_as_printed` is the parameter count computed after 4-bit quantisation (for example Qwen 3B prints 1.70B).
+- `b.n_titik` is printed twice in the culinary notebooks (same value); the conflict detector confirms that no metric has two different values.
+
+## Known limitations
+
+These are findings from the data, not extraction problems.
+
+### RidgeCV alpha at the grid bound
+
+The alpha grid is `[0.1, 1, 10, 50, 150, 500]`. The selected alpha reaches the upper bound (500) for all models, not only for Qwen:
+
+- Main experiment, Individual mode: the selected alpha is 500 in 14 of 14 runs (`Individual_alpha` in `00_ringkasan_per_model.csv`).
+- Layer-wise, Individual mode: 86% to 100% of the fold-layer combinations are at 500 (`LW_ind_pct_alpha_at_500`; 100% for 12 of the 14 pairs, 90% for sarvam culinary, 86% for sarvam instrument).
+- Layer-wise, Aggregate mode (alpha fitted once on all countries): the share of layers with alpha equal to 500 ranges from 0% to 92% across the 14 pairs
+  (computed from the `Alpha` column of `tables/layerwise_agregat.csv`).
+
+### Ministral-3-3B replication mismatch
+
+For `mistral`, the last layer in the layer-wise cell differs from the features used in the main experiments.
+The maximum difference between the layer-wise features and the cache is 44.8 (culinary) and 52.2 (instrument); the other models are at most 9.8.
+
+| | Aggregate (layer-wise vs original cell) | Individual (layer-wise vs original cell) |
+|---|---|---|
+| Culinary | 15.19° vs 16.26° | 37.81° vs 41.92° |
+| Instrument | 21.32° vs 22.59° | 39.96° vs 41.31° |
+
+In the culinary notebook, the "LAYER-WISE 0" cell prints "Cache lama tidak cocok ... Ekstraksi ulang" (the old cache does not match, re-extracting).
+In that notebook the cache file name is `sarvam_pure_food_alllayers_fp16.npy` (see [`../../data_external/README.md`](../../data_external/README.md)).
+The layer-wise curve of Ministral-3-3B is therefore not tied to its main-experiment numbers.
+
+### Layer-wise evaluation seeds
+
+- Aggregate mode: five cross-validation seeds (42, 43, 44, 45, 46) per layer; `Err_sd` is the standard deviation across these seeds. The main experiment uses seed 42 only.
+- Individual mode: `GroupKFold(5)` is deterministic, so there is one evaluation per layer and no seed variation.
+- The "best layer" columns (`LW_agg_best_*`, `LW_ind_best_*`) are the minimum over layers of the same cross-validated error that is reported, so the layer is selected and evaluated on the same data.
+  The notebook prints a warning to the same effect.
